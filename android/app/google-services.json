@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "322602435499",
+    "project_id": "shaats",
+    "storage_bucket": "shaats.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322602435499:android:231221897f3eedc9c7c8ee",
+        "android_client_info": {
+          "package_name": "com.example.shaats"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB984GBUi5-GUQ2TvRl1xgJo90ifBwlAKA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
