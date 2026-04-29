@@ -55,7 +55,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyAS8_8_BKTZE8rdeHlTeLYtdP5ICuQoHQM',
+    apiKey: 'API_Key',
     appId: '1:322602435499:web:7ef3dfe6f3b40787c7c8ee',
     messagingSenderId: '322602435499',
     projectId: 'shaats',
@@ -64,7 +64,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyAvxjhQ16n9gYjdoLf6NmTFMYmwBBRYgxg',
+    apiKey: 'API_Key',
     appId: '1:322602435499:ios:7da5b61a5942ba18c7c8ee',
     messagingSenderId: '322602435499',
     projectId: 'shaats',
